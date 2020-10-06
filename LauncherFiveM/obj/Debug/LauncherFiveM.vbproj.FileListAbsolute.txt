@@ -1,0 +1,12 @@
+C:\Users\PICHAU\source\repos\LauncherFiveM\LauncherFiveM\bin\Debug\LauncherFiveM.exe.config
+C:\Users\PICHAU\source\repos\LauncherFiveM\LauncherFiveM\bin\Debug\LauncherFiveM.exe
+C:\Users\PICHAU\source\repos\LauncherFiveM\LauncherFiveM\bin\Debug\LauncherFiveM.pdb
+C:\Users\PICHAU\source\repos\LauncherFiveM\LauncherFiveM\bin\Debug\LauncherFiveM.xml
+C:\Users\PICHAU\source\repos\LauncherFiveM\LauncherFiveM\obj\Debug\LauncherFiveM.vbprojAssemblyReference.cache
+C:\Users\PICHAU\source\repos\LauncherFiveM\LauncherFiveM\obj\Debug\LauncherFiveM.vbproj.GenerateResource.cache
+C:\Users\PICHAU\source\repos\LauncherFiveM\LauncherFiveM\obj\Debug\LauncherFiveM.vbproj.CoreCompileInputs.cache
+C:\Users\PICHAU\source\repos\LauncherFiveM\LauncherFiveM\obj\Debug\LauncherFiveM.exe
+C:\Users\PICHAU\source\repos\LauncherFiveM\LauncherFiveM\obj\Debug\LauncherFiveM.xml
+C:\Users\PICHAU\source\repos\LauncherFiveM\LauncherFiveM\obj\Debug\LauncherFiveM.pdb
+C:\Users\PICHAU\source\repos\LauncherFiveM\LauncherFiveM\obj\Debug\FiveMLauncher.Launcher.resources
+C:\Users\PICHAU\source\repos\LauncherFiveM\LauncherFiveM\obj\Debug\FiveMLauncher.Resources.resources
