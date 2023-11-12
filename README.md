@@ -8,8 +8,8 @@ Anyway, this is the "mega launcher" for free. You can change the logo, the backg
 
 ## How can I change to what I want?
 
-Just read the code. I made some comments that will help you. If you still having any doubts contact me via Discord, it is [Eldremor#0001]()
+Just read the code. I made some comments that will help you. If you still having any doubts contact me via Discord, it is [hdx_rox]()
 
 ## Contributing
 
-If you find error please tell me on my [Discord Server](https://discord.gg/SbFUjMw) that I will fix it. I'm new at coding so please be patient.
+If you find error please tell me on my [Discord Server](https://discord.gg/jXhRKPxAuM) that I will fix it. I'm new at coding so please be patient.
